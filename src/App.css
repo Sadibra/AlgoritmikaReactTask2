@@ -1,0 +1,10 @@
+body{
+    background-color: teal;
+}
+
+.container{
+    width: 500px;
+    background-color: gray;
+    opacity: 1;
+    margin: auto;
+}
